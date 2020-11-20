@@ -1,0 +1,12 @@
+{
+  "name": "gitStartProject",
+  "displayName": "gitStartProject",
+  "expo": {
+    "name": "gitStartProject",
+    "slug": "gitStartProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
