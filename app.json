@@ -7,6 +7,8 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "gitstart test project\n",
+    "githubUrl": "https://github.com/tryrone/gitstartTest"
   }
 }
